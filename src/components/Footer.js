@@ -6,16 +6,16 @@ const Footer = () => {
         <main className="Footer">
             <ul className="icons">
                 <li>
-                    <a className="icon style2"><FaTwitter /></a>
+                    <a href="twitter.com" className="icon style2"><FaTwitter /></a>
                 </li>
                 <li>
-                    <a className="icon style2"><FaFacebookF /></a>
+                    <a href="facebook.com" className="icon style2"><FaFacebookF /></a>
                 </li>
                 <li>
-                    <a className="icon style2"><FaInstagram /></a>
+                    <a href="instagram.com" className="icon style2"><FaInstagram /></a>
                 </li>
                 <li>
-                    <a className="icon style2"><FaLinkedinIn /></a>
+                    <a href="linkedin.com" className="icon style2"><FaLinkedinIn /></a>
                 </li>
             </ul>
             <ul class="copyright">
